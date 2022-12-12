@@ -7,7 +7,7 @@ package com.mycompany.caralibrobd;
 import java.util.Scanner;
 import javax.xml.stream.util.EventReaderDelegate;
 /**
- *
+ *prueba comentario
  * @author a22alejandrofc
  */
 public class CaraLibroMain {
